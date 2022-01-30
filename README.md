@@ -1,2 +1,2 @@
 # Diffusion
-solving the Diffusion equation
+Solving the diffusion equation
